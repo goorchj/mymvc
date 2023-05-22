@@ -1,0 +1,137 @@
+@{
+    ViewData["Title"] = "Login ToyMart";
+}
+@section Styles {
+    <link href="/css/login.css" rel="stylesheet" type="text/css" />
+}
+
+       <div class="full-page">
+        <div class="topnav">
+            <a style="color:rgba(22, 205, 101, 0.962);" class="active" href='@Url.Action("Index", "Home")'>Toy Mart</a>
+            <img src="../images/products/logotoys.JPG" width="70" height="70">
+            
+        </div>
+   
+        <div id='login-form' class='login-page'>
+            <div class="form-box">
+                <div class='button-box'>
+                    <div id='btn'></div>
+                    <button type='button' onclick='login()' class='toggle-btn'>Log In</button>
+                    <button type='button' onclick='register()' class='toggle-btn'>Register</button>
+                </div>
+                <form id='login' class='input-group-login'>
+                    <input type='text' class='input-field' placeholder='Email Id' name='email' id='email' required>
+                    <input type='password' class='input-field' placeholder='Enter Password' name='pass' id='pass' required>
+                    <input type='checkbox' class='check-box'><span>Remember Password</span>
+                    <button type='submit' class='submit-btn'id="login-btn" >Log in</button>
+                </form>
+<form id='register' class='input-group-register'>
+                    <input type='text' class='input-field' placeholder='First Name' name='fname' id='fname' required>
+                    <input type='text' class='input-field' placeholder='Last Name ' name='lname' id='lname' required>
+                    <input type='email' class='input-field' placeholder='Email Id' name='rmail' id='rmail' required>
+                    <input type='password' class='input-field' placeholder='Enter Password' name='pass1' id='pass1' required>
+                    <input type='password' class='input-field' placeholder='Confirm Password' required>
+                    <input type='checkbox' class='check-box'><span>I agree to the terms and conditions</span>
+                    <button type='submit' class='submit-btn' id="reg-btn">Register</button>
+                    
+                </form>
+            </div>
+        </div>
+    </div>
+
+<script>
+  $( "#register" ).on( "submit", function(e) {
+      
+  
+   const data = new FormData(e.target);
+  const value = Object.fromEntries(data.entries());
+  var model= JSON.stringify(value); 
+    
+    console.info("Model"+model);
+    
+    jQuery.support.cors = true;
+    $.ajax({
+      type: 'POST',
+      url: "/Login/Register/",
+      contentType: 'application/json',
+      data: model, 
+      success: function () {
+
+document.querySelector('#reg-btn').textContent = "Successful";
+        
+                 
+      },
+     
+
+      statusCode: { // <- Add this property
+        500: function() {
+ 
+document.querySelector('#reg-btn').textContent = "Try Again";
+
+         
+            
+
+        }
+        
+    }
+      
+    });
+      
+    e.preventDefault();
+  });
+
+
+
+  $( "#login" ).on( "submit", function(e) {
+ 
+    //var dataString = $(this).serialize();
+    const data = new FormData(e.target);
+    const value = Object.fromEntries(data.entries());
+    var model= JSON.stringify(value);  
+    //alert(dataString); return false;
+ 
+    $.ajax({
+      type: "POST",
+      url: "/Login/Login/",
+      contentType: 'application/json',
+      data: model,
+      success: function () {
+        
+          window.location.href = '@Url.Action("Index", "Home")';
+                 
+      },
+
+      statusCode: { // <- Add this property
+        500: function() {
+          document.querySelector('#login-btn').textContent = "Try Again";
+            
+
+        }
+    }
+      
+    });
+ 
+    e.preventDefault();
+  });
+
+
+
+
+    </script>
+
+<script>
+        var x = document.getElementById('login');
+        var y = document.getElementById('register');
+        var z = document.getElementById('btn');
+        function register() {
+            x.style.left = '-400px';
+            y.style.left = '50px';
+            z.style.left = '110px';
+        }
+        function login() {
+            x.style.left = '50px';
+            y.style.left = '450px';
+            z.style.left = '0px';
+        }
+    </script>
+

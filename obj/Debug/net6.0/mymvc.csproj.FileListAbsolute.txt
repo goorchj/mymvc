@@ -1,0 +1,51 @@
+C:\Users\goorchj\Documents\mymvc\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\goorchj\Documents\mymvc\bin\Debug\net6.0\appsettings.json
+C:\Users\goorchj\Documents\mymvc\bin\Debug\net6.0\mymvc.staticwebassets.runtime.json
+C:\Users\goorchj\Documents\mymvc\bin\Debug\net6.0\mymvc.exe
+C:\Users\goorchj\Documents\mymvc\bin\Debug\net6.0\mymvc.deps.json
+C:\Users\goorchj\Documents\mymvc\bin\Debug\net6.0\mymvc.runtimeconfig.json
+C:\Users\goorchj\Documents\mymvc\bin\Debug\net6.0\mymvc.dll
+C:\Users\goorchj\Documents\mymvc\bin\Debug\net6.0\mymvc.pdb
+C:\Users\goorchj\Documents\mymvc\obj\Debug\net6.0\mymvc.csproj.AssemblyReference.cache
+C:\Users\goorchj\Documents\mymvc\obj\Debug\net6.0\mymvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goorchj\Documents\mymvc\obj\Debug\net6.0\mymvc.AssemblyInfoInputs.cache
+C:\Users\goorchj\Documents\mymvc\obj\Debug\net6.0\mymvc.AssemblyInfo.cs
+C:\Users\goorchj\Documents\mymvc\obj\Debug\net6.0\mymvc.csproj.CoreCompileInputs.cache
+C:\Users\goorchj\Documents\mymvc\obj\Debug\net6.0\mymvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\goorchj\Documents\mymvc\obj\Debug\net6.0\mymvc.RazorAssemblyInfo.cache
+C:\Users\goorchj\Documents\mymvc\obj\Debug\net6.0\mymvc.RazorAssemblyInfo.cs
+C:\Users\goorchj\Documents\mymvc\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\goorchj\Documents\mymvc\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\goorchj\Documents\mymvc\obj\Debug\net6.0\scopedcss\bundle\mymvc.styles.css
+C:\Users\goorchj\Documents\mymvc\obj\Debug\net6.0\mymvc.dll
+C:\Users\goorchj\Documents\mymvc\obj\Debug\net6.0\refint\mymvc.dll
+C:\Users\goorchj\Documents\mymvc\obj\Debug\net6.0\mymvc.pdb
+C:\Users\goorchj\Documents\mymvc\obj\Debug\net6.0\mymvc.genruntimeconfig.cache
+C:\Users\goorchj\Documents\mymvc\obj\Debug\net6.0\ref\mymvc.dll
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\Jerome\mymvc\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\Jerome\mymvc\bin\Debug\net6.0\appsettings.json
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\Jerome\mymvc\bin\Debug\net6.0\mymvc.staticwebassets.runtime.json
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\Jerome\mymvc\bin\Debug\net6.0\mymvc.exe
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\Jerome\mymvc\bin\Debug\net6.0\mymvc.deps.json
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\Jerome\mymvc\bin\Debug\net6.0\mymvc.runtimeconfig.json
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\Jerome\mymvc\bin\Debug\net6.0\mymvc.dll
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\Jerome\mymvc\bin\Debug\net6.0\mymvc.pdb
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\Jerome\mymvc\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\Jerome\mymvc\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\Jerome\mymvc\obj\Debug\net6.0\mymvc.csproj.AssemblyReference.cache
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\Jerome\mymvc\obj\Debug\net6.0\mymvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\Jerome\mymvc\obj\Debug\net6.0\mymvc.AssemblyInfoInputs.cache
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\Jerome\mymvc\obj\Debug\net6.0\mymvc.AssemblyInfo.cs
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\Jerome\mymvc\obj\Debug\net6.0\mymvc.csproj.CoreCompileInputs.cache
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\Jerome\mymvc\obj\Debug\net6.0\mymvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\Jerome\mymvc\obj\Debug\net6.0\mymvc.RazorAssemblyInfo.cache
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\Jerome\mymvc\obj\Debug\net6.0\mymvc.RazorAssemblyInfo.cs
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\Jerome\mymvc\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\Jerome\mymvc\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\Jerome\mymvc\obj\Debug\net6.0\scopedcss\bundle\mymvc.styles.css
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\Jerome\mymvc\obj\Debug\net6.0\mymvc.csproj.CopyComplete
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\Jerome\mymvc\obj\Debug\net6.0\mymvc.dll
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\Jerome\mymvc\obj\Debug\net6.0\refint\mymvc.dll
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\Jerome\mymvc\obj\Debug\net6.0\mymvc.pdb
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\Jerome\mymvc\obj\Debug\net6.0\mymvc.genruntimeconfig.cache
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\Jerome\mymvc\obj\Debug\net6.0\ref\mymvc.dll
